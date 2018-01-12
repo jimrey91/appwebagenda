@@ -1,2 +1,2 @@
 # Agenda Web
-Agenda realziada con jsp, servlet y ejb
+Agenda realizada con jsp, servlet y ejb
